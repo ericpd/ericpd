@@ -1,4 +1,5 @@
 ### Hi All 👋
+💬 Ask me about ...
 
 <!--
 **ericpd/ericpd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
