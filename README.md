@@ -33,6 +33,22 @@ Here are some ideas to get you started:
       <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
   <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>
 </p>
+
+## Connect with me:
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/####"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/####"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/###/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+
+
+</p>
+
+## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=ericpd">
+</a>
+<a href="https://github.com/ericpd?tab=followers"><img src="https://img.shields.io/github/followers/ericpd?label=Followers&style=social" alt="GitHub Badge"></a>
   
   
   
