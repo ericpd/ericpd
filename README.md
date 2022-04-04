@@ -1,5 +1,7 @@
-
+<!--
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+-->
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Eric</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from budapest.</h3>
 
@@ -19,10 +21,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - ⚡ Fun act: ...
--->
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericpd&theme=chartreuse-dark&show_icons=true)</p>
-
+-->
 
 ## 🚀 Languages and Tools:
 
@@ -34,7 +36,7 @@ Here are some ideas to get you started:
       <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
   <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>
 </p>
-
+<!--
 ## Connect with me:
 <p align="left">
 
@@ -50,7 +52,7 @@ Here are some ideas to get you started:
     <img src="https://komarev.com/ghpvc/?username=ericpd">
 </a>
 <a href="https://github.com/ericpd?tab=followers"><img src="https://img.shields.io/github/followers/ericpd?label=Followers&style=social" alt="GitHub Badge"></a>
-  
+-->  
   
   
   
