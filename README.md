@@ -21,3 +21,11 @@ Here are some ideas to get you started:
 - ⚡ Fun act: ...
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericpd&theme=chartreuse-dark&show_icons=true)
+
+
+## 🚀 Languages and Tools:
+
+<p align="left"> 
+  <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
+    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
+  
