@@ -3,7 +3,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Eric</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from budapest.</h3>
 
-### Hi All 👋
+
 
 <!--
 **ericpd/ericpd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - ⚡ Fun act: ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericpd&theme=chartreuse-dark&show_icons=true)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericpd&theme=chartreuse-dark&show_icons=true)</p>
 
 
 ## 🚀 Languages and Tools:
