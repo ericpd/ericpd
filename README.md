@@ -37,8 +37,8 @@ Here are some ideas to get you started:
 ## Connect with me:
 <p align="left">
 
+ <a href = "https://twitter.com/####"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.linkedin.com/in/####"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/####"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/###/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 
